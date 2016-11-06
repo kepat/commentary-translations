@@ -1,0 +1,103 @@
+.position-relative {
+    position: relative;
+}
+
+.dataTables_filter, .dataTables_paginate {
+    text-align: right !important;
+}
+
+.modal-loading-main {
+    display: none;
+    z-index: 2000;
+    position: absolute;
+    top: 0;
+    left: 0;;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+}
+
+.modal-loading-table {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+.modal-loading-table-cell {
+    display: table-cell;
+    width: 100%;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.loading-image {
+    display: block;
+    margin: auto auto;
+}
+
+.panel-blue {
+    border-color: #337ab7;
+}
+
+.panel-blue .panel-heading {
+    border-color: #337ab7;
+    color: #fff;
+    background-color: #337ab7;
+}
+
+.panel-blue a {
+    color: #337ab7;
+}
+
+.panel-blue a:hover {
+    color: #337ab7;
+}
+
+.right-margin {
+    margin-right: 2%;
+}
+
+.form-inline {
+    display: inline;
+}
+
+.btn {
+    margin-bottom: 2px;
+}
+
+.btn-icon {
+    padding-right: 5px;
+}
+
+.button-margin {
+    margin: 5px 2.5px;
+}
+
+.panel-body-body {
+    padding: 25px 25px;
+}
+
+.body-white {
+    background-color: #ffffff;
+}
+
+.float-right {
+    float: right;
+}
+
+.border-solid {
+    border: 1px solid #cccccc;
+}
+
+.table-margin {
+    margin: 25px 0px;
+}
+
+.display-entries-margin {
+    margin: 25px 0px;
+}
+
+.cursor-hand {
+    cursor: pointer;
+    cursor: hand;
+}
